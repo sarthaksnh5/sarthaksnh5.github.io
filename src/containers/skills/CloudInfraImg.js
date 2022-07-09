@@ -7,7 +7,6 @@ export default function CloudInfraImg(props) {
       id="1dff4cb4-53bd-4ffc-acc1-5e8a2ceb72de"
       data-name="Layer 1"
       xmlns="http://www.w3.org/2000/svg"
-      // xmlns:xlink="http://www.w3.org/1999/xlink"
       width="100%"
       height="100%"
       viewBox="0 0 864.81 658.45"

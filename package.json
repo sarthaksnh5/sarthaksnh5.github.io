@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "personalPortfolio",
-  "homepage": "http://vedanshv.tech/",
+  "homepage": "",
   "version": "1.0.0",
   "scripts": {
     "build": "react-scripts build",
@@ -12,6 +12,7 @@
     "test": "react-scripts test"
   },
   "dependencies": {
+    "@ramonak/react-progress-bar": "^5.0.1",
     "baseui": "^9.109.0",
     "bootstrap": "^4.6.0",
     "fs": "0.0.1-security",

@@ -4,6 +4,7 @@ import "./ExperienceCard.css";
 function ExperienceCard(props) {
   const experience = props.experience;
   const theme = props.theme;
+
   return (
     <div
       className="experience-card"
